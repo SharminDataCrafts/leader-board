@@ -1,0 +1,62 @@
+body{
+    background-color: #e4e2e2;
+}
+
+.container-fluid  h4{
+    color: #562EFF;
+}
+
+/* navbar */
+header{
+    background-color: #562EFF;
+}
+
+
+.navbar img{
+    width:3vw;
+}
+
+/* top-player */
+
+.player img{
+    width: 4vw;
+}
+
+.blog-writer{
+    color: #562EFF;
+}
+
+/* latest-course */
+
+.course p{
+    color: #ED6B4F;
+
+
+}
+
+
+
+.course{
+    border: none;
+    box-shadow: 1px 1px 10px lightgray;
+    width: 22vw;
+}
+
+.card .card-footer{
+    background-color: white;
+    border: none;
+}
+.star img{
+    width: 1vw;
+}
+.grey-star{
+    width: 0.8vw;
+}
+
+.clock img{
+    width: 2vw;
+}
+
+.clock {
+ height: 5vh;
+}
